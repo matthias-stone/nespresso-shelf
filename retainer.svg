@@ -1,0 +1,24 @@
+<svg width="145" height="20" viewBox="-1 -1 145 20" xmlns="http://www.w3.org/2000/svg" version="1.2"
+    style="background-color: white">
+    <title>Nespresso retainer</title>
+    <path d="M7,18
+    A4,8 0, 0,1, 3,10
+    h-1
+    A2,2 0, 0,1, 0,8
+    v-6
+    A2,2 0, 0,1, 2,0
+    h1
+    h122
+    h3
+    h11
+    A4,4 0, 0,1 143,4
+    v7
+    A4,4 0, 0,1 139,15
+    h-9
+    A2,2 0, 0,1, 128,13
+    v-5
+    h-3
+    v2
+    A4,8 0, 0,1, 121,18
+  z" stroke="#f00" stroke-width="0.1pt" fill="none" />
+</svg>

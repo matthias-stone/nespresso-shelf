@@ -1,0 +1,55 @@
+<svg width="287mm" height="605mm" viewBox="-1 -604 287 605" xmlns="http://www.w3.org/2000/svg" version="1.2" style="background-color: white">
+    <title>Nespresso wall</title>
+    <g transform=" scale(1, -1)">
+
+        <rect width="285" height="603" stroke="#f00" stroke-width="0.1pt" fill="none"/>
+        <g transform="translate(0,5)" id="cutout">
+            <g transform="rotate(15)">
+            <!-- <rect x="15" y="3" width="280" height="70" fill="#eee"/> -->
+            <g transform="translate(13,3)"><g transform="rotate(-15)">
+                    <rect x="-3" y="8.5" width="3" height="22" stroke="#f00" stroke-width="0.1pt" fill="none"/>
+                    <rect x="-3" y="7.5" width="3" height="11" stroke="#f00" stroke-width="0.1pt" fill="none"/>
+                </g></g>
+            <g transform="translate(8,0)">
+                <!-- <rect x="0" y="0" width="278" height="3" fill="#f8f8f8"/> -->
+                <rect x="0" y="0" width="20" height="3" stroke="#f00" stroke-width="0.1pt" fill="none"/>
+                <rect x="50" y="0" width="30" height="3" stroke="#f00" stroke-width="0.1pt" fill="none"/>
+                <rect x="115" y="0" width="30" height="3" stroke="#f00" stroke-width="0.1pt" fill="none"/>
+                <rect x="180" y="0" width="30" height="3" stroke="#f00" stroke-width="0.1pt" fill="none"/>
+                <rect x="245" y="0" width="20" height="3" stroke="#f00" stroke-width="0.1pt" fill="none"/>
+                <g transform="translate(275)"><g transform="rotate(-15)">
+                    <rect x="0" y="-25" width="3" height="8" stroke="#f00" stroke-width="0.1pt" fill="none"/>
+                    <rect x="0" y="-8" width="3" height="11" stroke="#f00" stroke-width="0.1pt" fill="none"/>
+                </g></g>
+            </g>
+            </g>
+        </g>
+        <g transform="translate(0,76)">  <use href="#cutout" /> </g>
+        <g transform="translate(0,152)"> <use href="#cutout" /> </g>
+        <g transform="translate(0,228)"> <use href="#cutout" /> </g>
+        <g transform="translate(0,304)"> <use href="#cutout" /> </g>
+        <g transform="translate(0,380)"> <use href="#cutout" /> </g>
+        <g transform="translate(0,456)"> <use href="#cutout" /> </g>
+
+        <g transform="translate(0, 124)" id="holerow">
+            <circle cx="41"    cy="0" r="2.5" stroke="#f00" stroke-width="0.1pt" fill="none" />
+            <circle cx="228.5" cy="0" r="2.5" stroke="#f00" stroke-width="0.1pt" fill="none" />
+        </g>
+        <g transform="translate(0,32)">  <use href="#holerow" /> </g>
+        <g transform="translate(0,64)">  <use href="#holerow" /> </g>
+        <g transform="translate(0,96)">  <use href="#holerow" /> </g>
+        <g transform="translate(0,128)"> <use href="#holerow" /> </g>
+        <g transform="translate(0,160)"> <use href="#holerow" /> </g>
+        <g transform="translate(0,192)"> <use href="#holerow" /> </g>
+        <g transform="translate(0,224)"> <use href="#holerow" /> </g>
+        <g transform="translate(0,256)"> <use href="#holerow" /> </g>
+        <g transform="translate(0,288)"> <use href="#holerow" /> </g>
+        <g transform="translate(0,320)"> <use href="#holerow" /> </g>
+    </g>
+<!--
+
+    41, 228.5
+    11 divisions
+    5mm radius
+    124 444 -->
+</svg>
